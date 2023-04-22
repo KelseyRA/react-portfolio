@@ -1,0 +1,23 @@
+footer {
+    background-color: #3F6E49;
+    margin-bottom: 24px;
+    padding: 24px;
+    color: white;
+    text-align: center;
+    border-top: dashed white;
+}
+
+footer h2{
+    margin:24px;
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+footer ul li {
+    margin-left: 20px;
+}

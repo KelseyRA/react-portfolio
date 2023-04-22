@@ -1,0 +1,13 @@
+.form {
+    width: 400px;
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.form input {
+    display: inline;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+}
